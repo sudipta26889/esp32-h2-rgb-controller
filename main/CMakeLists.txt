@@ -1,0 +1,2 @@
+idf_component_register(SRCS "main.c"
+                    INCLUDE_DIRS "../components/esp-zigbee-sdk/components/esp-zigbee-lib/include" "../components/esp-zigbee-sdk/components/esp-zigbee-lib/include/ha" "../components/esp-zboss-lib/include")

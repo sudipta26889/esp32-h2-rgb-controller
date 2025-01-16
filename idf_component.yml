@@ -1,0 +1,5 @@
+dependencies:
+  espressif/esp-zboss-lib:
+    path: ./components/esp-zboss-lib
+  espressif/esp-zigbee-lib:
+    path: ./components/esp-zigbee-sdk/components/esp-zigbee-lib
